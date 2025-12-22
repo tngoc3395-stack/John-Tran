@@ -1,0 +1,12 @@
+Mortgage.xml
+<Mortgages>
+  <Mortgage>
+    <Borrower Name>John Tran</Borrower Name>
+    <Loan Amount>400000</Loan Amount>
+    <Interest Rate>6.00</Interest Rate>
+    <Term Years>30</Term Years>
+    <Monthly Payment>2398.20</Monthly Payment>
+    <Start Date>2025-12-12</Start Date>
+    <Property Address>621 Lester Ave, Clovis, CA</Property Address>
+  </Mortgage>
+</Mortgages>
